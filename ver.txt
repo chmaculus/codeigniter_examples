@@ -1,0 +1,9 @@
+https://www.guru99.com/codeigniter-active-record.html
+https://runebook.dev/es/docs/codeigniter/models/model
+https://codeigniter4.github.io/userguide/models/model.html
+https://stackoverflow.com/questions/19802081/php-codeigniter-insert-delete-update-with-submit-buttons
+https://www.studentstutorial.com/codeigniter/student-update-data.php
+https://www.webslesson.info/2016/10/insert-fetch-update-delete-mysql-data-in-codeigniter.html
+https://www.binaryboxtuts.com/php-tutorials/codeigniter-3-simple-crud-step-by-step-tutorial/
+https://victorroblesweb.es/2013/12/30/crud-con-codeigniter/
+https://www.itsolutionstuff.com/post/codeigniter-3-basic-crud-application-with-mysql-example-with-demoexample.html
